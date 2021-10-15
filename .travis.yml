@@ -1,4 +1,4 @@
 language: java
 jdk:
--oraclejdk16
+  -oraclejdk16
 scrript: mvn clean test
