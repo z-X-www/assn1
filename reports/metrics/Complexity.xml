@@ -1,0 +1,152 @@
+<METRICS profile="Complexity metrics" timestamp="ÖÜÁù, 9 10ÔÂ 2021 16:44:08 CST">
+	<METRIC category="Method" name="Cognitive complexity" abbreviation="CogC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="29.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="11.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="11.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="10.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="7.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="20.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="35.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="15.0"/>
+		<VALUE measured="null.changed(ObservableValue,Object,Object)" value="0.0"/>
+		<VALUE measured="null.changed(ObservableValue&lt;? extends String&gt;,String,String)" value="7.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Essential cyclomatic complexity" abbreviation="ev(G)">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="1.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Design complexity" abbreviation="iv(G)">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="13.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="7.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="14.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="7.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Cyclomatic complexity" abbreviation="v(G)">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="14.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="13.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="20.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="7.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Average operation complexity" abbreviation="OCavg">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="3.380952380952381"/>
+	</METRIC>
+	<METRIC category="Class" name="Maximum operation complexity" abbreviation="OCmax">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="14.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="16.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Weighted method complexity" abbreviation="WMC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="20.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="71.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Average cyclomatic complexity" abbreviation="v(G)avg">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="4.346153846153846"/>
+	</METRIC>
+	<METRIC category="Package" name="Total cyclomatic complexity" abbreviation="v(G)tot">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="113.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Average cyclomatic complexity" abbreviation="v(G)avg">
+		<VALUE measured="assessment1project" value="4.346153846153846"/>
+	</METRIC>
+	<METRIC category="Module" name="Total cyclomatic complexity" abbreviation="v(G)tot">
+		<VALUE measured="assessment1project" value="113.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Average cyclomatic complexity" abbreviation="v(G)avg">
+		<VALUE measured="project" value="4.346153846153846"/>
+	</METRIC>
+	<METRIC category="Project" name="Total cyclomatic complexity" abbreviation="v(G)tot">
+		<VALUE measured="project" value="113.0"/>
+	</METRIC>
+</METRICS>

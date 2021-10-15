@@ -1,0 +1,38 @@
+<METRICS profile="Chidamber-Kemerer metrics" timestamp="ÖÜÁù, 9 10ÔÂ 2021 16:51:29 CST">
+	<METRIC category="Class" name="Coupling between objects" abbreviation="CBO">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="3.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Depth of inheritance tree" abbreviation="DIT">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="1.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Lack of Cohesion of Methods" abbreviation="LCOM">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="1.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Number of children" abbreviation="NOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="0.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Response for class" abbreviation="RFC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="37.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="7.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="12.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="159.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Weighted method complexity" abbreviation="WMC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="20.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="71.0"/>
+	</METRIC>
+</METRICS>

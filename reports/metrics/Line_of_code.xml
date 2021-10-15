@@ -1,0 +1,293 @@
+<METRICS profile="Lines of code metrics" timestamp="ÖÜÁù, 9 10ÔÂ 2021 16:50:21 CST">
+	<METRIC category="Method" name="Comment lines of code" abbreviation="CLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="4.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="9.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="1.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="2.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="12.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Javadoc lines of code" abbreviation="JLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="0.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="20.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="17.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="14.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="40.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="13.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="10.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="41.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="44.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="24.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="45.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="53.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="8.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="45.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="52.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="27.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="75.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="108.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="11.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="21.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="89.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="19.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="16.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="14.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="37.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="13.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="3.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="10.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="38.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="40.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="18.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="39.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="50.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="8.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="39.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="46.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="23.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="6.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="73.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="99.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="10.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="19.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="77.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Relative lines of code" abbreviation="RLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenFile(String)" value="0.21505376344086022"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.OpenOdtFile(String)" value="0.1827956989247312"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.SaveFile(String,String)" value="0.15053763440860216"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO.myReadNode(OfficeTextElement)" value="0.43010752688172044"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml.readYaml()" value="0.8666666666666667"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.main(String[])" value="0.2"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor.start(Stage)" value="0.6666666666666666"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.createvBox(Map&lt;String, ArrayList&gt;,String)" value="0.056010928961748634"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getcol(String,int)" value="0.006830601092896175"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.getrow(String,int)" value="0.006830601092896175"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.initialize(URL,ResourceBundle)" value="0.060109289617486336"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.search(String,String)" value="0.03278688524590164"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toabout(ActionEvent)" value="0.06147540983606557"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tochange(ActionEvent)" value="0.07240437158469945"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocopy(ActionEvent)" value="0.01092896174863388"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tocut(ActionEvent)" value="0.006830601092896175"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toexit(ActionEvent)" value="0.06147540983606557"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tomidt(ActionEvent)" value="0.00819672131147541"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tonew(ActionEvent)" value="0.07103825136612021"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toopen(ActionEvent)" value="0.036885245901639344"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topaste(ActionEvent)" value="0.00819672131147541"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.topdf(ActionEvent)" value="0.10245901639344263"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.toprint(ActionEvent)" value="0.14754098360655737"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosave(ActionEvent)" value="0.015027322404371584"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosaveas(ActionEvent)" value="0.028688524590163935"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1.tosearch(ActionEvent)" value="0.12158469945355191"/>
+	</METRIC>
+	<METRIC category="Class" name="Comment lines of code" abbreviation="CLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="5.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="68.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Javadoc lines of code" abbreviation="JLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="0.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project.FileIO" value="93.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.Readyaml" value="15.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.TextEditor" value="15.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project.assessment1" value="732.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Comment lines of code" abbreviation="CLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Comment lines of code (recursive)" abbreviation="CLOC(rec)">
+		<VALUE measured="" value="73.0"/>
+		<VALUE measured="lixinandzhaoxw" value="73.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="73.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Javadoc lines of code" abbreviation="JLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Javadoc lines of code (recursive)" abbreviation="JLOC(rec)">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of code (recursive)" abbreviation="LOC(rec)">
+		<VALUE measured="" value="965.0"/>
+		<VALUE measured="lixinandzhaoxw" value="965.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of product code (recursive)" abbreviation="LOCp(rec)">
+		<VALUE measured="" value="965.0"/>
+		<VALUE measured="lixinandzhaoxw" value="965.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of test code (recursive)" abbreviation="LOCt(rec)">
+		<VALUE measured="" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw" value="0.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Non-comment lines of code (product, recursive)" abbreviation="NCLOCp(rec)">
+		<VALUE measured="" value="892.0"/>
+		<VALUE measured="lixinandzhaoxw" value="892.0"/>
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="lixinandzhaoxw.assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Javadoc lines of code" abbreviation="JLOC">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Groovy" abbreviation="L(Groovy)">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of HTML" abbreviation="L(HTML)">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Java" abbreviation="L(J)">
+		<VALUE measured="assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Kotlin" abbreviation="L(KT)">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of XML" abbreviation="L(XML)">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="assessment1project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="assessment1project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="assessment1project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="assessment1project" value="0.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Java" value="965.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="Java" value="892.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Comment lines of code" abbreviation="CLOC">
+		<VALUE measured="project" value="73.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Javadoc lines of code" abbreviation="JLOC">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Groovy" abbreviation="L(Groovy)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of HTML" abbreviation="L(HTML)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Java" abbreviation="L(J)">
+		<VALUE measured="project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Kotlin" abbreviation="L(KT)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of XML" abbreviation="L(XML)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="project" value="965.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="project" value="892.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+</METRICS>

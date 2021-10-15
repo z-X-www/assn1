@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="main" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lixinandzhaoxw.assessment1project.assessment1">
+   <children>
+      <MenuBar fx:id="MenuBar" prefHeight="25.0" prefWidth="334.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu fx:id="File" mnemonicParsing="false" text="File">
+            <items>
+                  <MenuItem fx:id="Minew" mnemonicParsing="false" onAction="#tonew" text="New" />
+                  <MenuItem fx:id="Miopen" mnemonicParsing="false" onAction="#toopen" text="Open" />
+                  <MenuItem fx:id="misave" mnemonicParsing="false" onAction="#tosave" text="Save" />
+                  <MenuItem fx:id="Misaveas" mnemonicParsing="false" onAction="#tosaveas" text="Save as" />
+            </items>
+          </Menu>
+          <Menu fx:id="search" mnemonicParsing="false" text="Search">
+               <items>
+                  <MenuItem fx:id="Misearch" mnemonicParsing="false" onAction="#tosearch" text="Search" />
+               </items></Menu>
+            <Menu fx:id="view" mnemonicParsing="false" text="View">
+               <items>
+                  <MenuItem fx:id="MiDT" mnemonicParsing="false" onAction="#tomidt" text="D&amp;T" />
+                  <MenuItem fx:id="Michange" mnemonicParsing="false" onAction="#tochange" text="Change style" />
+               </items></Menu>
+            <Menu fx:id="manage" mnemonicParsing="false" text="Manage">
+              <items>
+                  <MenuItem fx:id="mipdf" mnemonicParsing="false" onAction="#topdf" text="PDF" />
+                <MenuItem fx:id="Miprint" mnemonicParsing="false" onAction="#toprint" text="Print" />
+                  <MenuItem fx:id="Miexit" mnemonicParsing="false" onAction="#toexit" text="Exit" />
+              </items>
+            </Menu>
+            <Menu fx:id="help" mnemonicParsing="false" text="Help">
+              <items>
+                <MenuItem fx:id="Miabout" mnemonicParsing="false" onAction="#toabout" text="About" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Function">
+              <items>
+                <MenuItem fx:id="Micopy" mnemonicParsing="false" onAction="#tocopy" text="Copy" />
+                  <MenuItem fx:id="Mipaste" mnemonicParsing="false" onAction="#topaste" text="Paste" />
+                  <MenuItem fx:id="Micut" mnemonicParsing="false" onAction="#tocut" text="Cut" />
+              </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+       <Label fx:id="dateandtime" disable="true" layoutX="446.0" layoutY="7.0" prefHeight="15.0" prefWidth="147.0" AnchorPane.rightAnchor="6.800000000000011" AnchorPane.topAnchor="7.0" />
+      <Label fx:id="myfont" disable="true" layoutY="378.0" maxWidth="1.7976931348623157E308" prefHeight="20.0" prefWidth="140.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="20.0" />
+      <Label fx:id="mycolor" disable="true" layoutX="167.0" layoutY="380.0" prefHeight="20.0" prefWidth="140.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="160.0" />
+      <Label fx:id="mysize" disable="true" layoutX="334.0" layoutY="380.0" prefHeight="20.0" prefWidth="140.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="300.0" />
+      <Label fx:id="rowandcol" disable="true" layoutX="555.0" layoutY="379.0" prefHeight="20.0" prefWidth="140.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="440.0" AnchorPane.rightAnchor="20.0" />
+      <TextArea fx:id="textarea" layoutX="82.0" layoutY="36.0" prefHeight="375.0" prefWidth="600.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0" />
+   </children>
+</AnchorPane>
