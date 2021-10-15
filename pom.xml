@@ -148,6 +148,11 @@
                 <configuration>
                     <source>16</source>
                     <target>16</target>
+                    <encoding>utf-8</encoding>
+                    <compilerArguments>
+                        <verbose />
+                        <bootclasspath>${java.home}/lib/rt.jar;${java.home}/lib/jce.jar</bootclasspath>
+                    </compilerArguments>
                 </configuration>
             </plugin>
             <plugin>
