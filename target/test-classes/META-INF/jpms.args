@@ -1,0 +1,4 @@
+--patch-module
+lixinandzhaoxw.assessment1project=_
+--add-reads
+lixinandzhaoxw.assessment1project=ALL-UNNAMED
